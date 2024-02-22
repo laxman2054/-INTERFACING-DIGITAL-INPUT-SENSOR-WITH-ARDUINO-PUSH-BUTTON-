@@ -1,9 +1,8 @@
 ## INTERFACING DIGITAL INPUT SENSOR WITH ARDUINO PUSH BUTTON
-## DATE :
-## NAME :																			             
-## ROLLNUMBER :
-## DEPARTMENT 
-
+## DATE :16\02\2024
+## NAME :s.laxman sudharsan reddy																		             
+## ROLLNUMBER : 212222040159
+## DEPARTMENT : computer science and engineering
 
 ## AIM:
 To interface a digital input (push button) and blink and LED upon activation.
